@@ -59,7 +59,7 @@ pyyaml==6.0
     # via python-frontmatter
 redis==3.5.3
     # via celery
-requests==2.26.0
+requests==2.31.0
     # via -r requirements.in
 six==1.16.0
     # via
